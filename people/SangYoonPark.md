@@ -8,12 +8,13 @@ title: SangYoon Park
 
 ### Research Interests
 * Deep Learning
+* Computer Vision
 * Emotion Recognition
 * SOFA
 
 ### Contact Info
 * Lab: 1207, New Engineering Building
-* Email:
+* Email: yoonni0908@konkuk.ac.kr
 
 ### Related Links 
 * [Github](https://github.com/yoonni0908)
