@@ -8,6 +8,7 @@ title: SangYoon Park
 
 ### Research Interests
 * Deep Learning
+* Computer Vision
 * Emotion Recognition
 * SOFA
 
