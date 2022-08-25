@@ -9,8 +9,8 @@ Primary UC관점에서 하려는 연구를 요약 설명
 #### Survey (박상윤)
 - Related Work Suvey
 	- Emotion Recognition(SOFA)
-	Multitask Emotion Recognition with Incomplete Labels
-  	Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network
+		- Multitask Emotion Recognition with Incomplete Labels
+  		- Deep-Emotion: Facial Expression Recognition Using Attentional Convolutional Network
 	- Spatial Transformer Networks
 
 
